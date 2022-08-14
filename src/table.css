@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    max-width: 900px;
+    width: 100%;
+    margin: 2rem auto;
+}
+
+table tr,table td{
+    border: 1px solid skyblue;
+    padding: 8px;
+}
+button{
+    margin: 5px;
+}
+table th{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    border: 1px solid skyblue;
+}
